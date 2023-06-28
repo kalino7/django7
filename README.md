@@ -1,0 +1,2 @@
+# django7
+trial 
